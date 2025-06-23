@@ -12,4 +12,4 @@ Once you have a [Google account](https://support.google.com/accounts/answer/2744
 
 ### Coding lessons
 
-**Practical 1** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SGSSSonline/modelling-trajectories-summer-school-2025/blob/main/code/sgsss-2024-modeling-traj-charity-density-2024-06-05.ipynb)
+**Practical 1** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SGSSSonline/modelling-trajectories-summer-school-2025/blob/main/code/sgsss-modelling-trajectories-practical-1-2025-06-25.ipynb)
