@@ -15,7 +15,7 @@ This repository houses the materials underpinning the one-day course run by [Dr 
 ### Programme
 
 The course programme can be viewed here:
-* https://github.com/SGSSSonline/modelling-trajectories-summer-school-2025/blob/main/sgsss-modelling-trajectories-outline-2025-06-25.pdf
+* https://github.com/SGSSSonline/modelling-trajectories-summer-school-2025/blob/main/sgsss-modeling-trajectories-outline-2025-06-25.pdf
 
 ### Materials
 
